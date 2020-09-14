@@ -5,18 +5,8 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="A&amp;E HD">
-    <display-name lang="es">"&gt;A&amp;E HD"&gt;</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/a_y_e_latinoamerica-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="AMC HD">
     <display-name lang="es">"&gt;AMC HD"&gt;</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="AMC">
-    <display-name lang="es">"&gt;AMC"&gt;</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/amc_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -30,19 +20,9 @@
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="AXN">
-    <display-name lang="es">"&gt;AXN"&gt;</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/axn-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="Az Clic">
     <display-name lang="es">"&gt;Az Clic"&gt;</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_clic-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Az Corazón HD">
-    <display-name lang="es">"&gt;Az Corazón HD"&gt;</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/tv_azteca_corazon-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Az Corazón">
@@ -67,11 +47,6 @@
   </channel>
   <channel id="BeinSports HD">
     <display-name lang="es">"&gt;BeinSports HD"&gt;</display-name>
-    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/being_sports_en_espanol-mediano.png" />
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="BeinSports Ñ HD">
-    <display-name lang="es">"&gt;BeinSports Ñ HD"&gt;</display-name>
     <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/being_sports_en_espanol-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
@@ -102,26 +77,22 @@
   </channel>
   <channel id="Cinemax HD">
     <display-name lang="es">"&gt;Cinemax HD"&gt;</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/cinemax_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Comedy Central HD">
-    <display-name lang="es">"&gt;Comedy Central HD"&gt;</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Comedy Central">
-    <display-name lang="es">"&gt;Comedy Central"&gt;</display-name>
+    <display-name lang="es">Comedy Central HD</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/comedy_central_latinoamerica-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="De Pelicula HD">
     <display-name lang="es">"&gt;De Pelicula HD"&gt;</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/de_pelicula-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Discovery Channel HD">
     <display-name lang="es">"&gt;Discovery Channel HD"&gt;</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Discovery H&amp;H">
-    <display-name lang="es">"&gt;Discovery H&amp;H"&gt;</display-name>
+    <icon src="https://imagenes.gatotv.com/logos/canales/oscuros/discovery_channel-mediano.png" />
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Discovery H&amp;H HD">
@@ -152,10 +123,6 @@
     <display-name lang="es">"&gt;E! HD"&gt;</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="E!">
-    <display-name lang="es">"&gt;E!"&gt;</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="Elgourmet">
     <display-name lang="es">"&gt;Elgourmet"&gt;</display-name>
     <url>http://www.gatotv.com</url>
@@ -184,10 +151,6 @@
     <display-name lang="es">"&gt;Film &amp; Arts HD"&gt;</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Film &amp; Arts HD (EN)">
-    <display-name lang="es">"&gt;Film &amp; Arts HD (EN)"&gt;</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="Film Zone HD">
     <display-name lang="es">"&gt;Film Zone HD"&gt;</display-name>
     <url>http://www.mi.tv</url>
@@ -202,10 +165,6 @@
   </channel>
   <channel id="Fox HD">
     <display-name lang="es">"&gt;Fox HD"&gt;</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="Fox">
-    <display-name lang="es">"&gt;Fox"&gt;</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="Fox Cinema">
@@ -240,10 +199,6 @@
     <display-name lang="es">"&gt;Fox Sports 3 HD"&gt;</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
-  <channel id="Fox Series">
-    <display-name lang="es">"&gt;Fox Series"&gt;</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
   <channel id="FX HD">
     <display-name lang="es">"&gt;FX HD"&gt;</display-name>
     <url>http://www.gatotv.com</url>
@@ -266,10 +221,6 @@
   </channel>
   <channel id="HBO 2 HD">
     <display-name lang="es">"&gt;HBO 2 HD"&gt;</display-name>
-    <url>http://www.gatotv.com</url>
-  </channel>
-  <channel id="HBO 2 HD (EN)">
-    <display-name lang="es">"&gt;HBO 2 HD (EN)"&gt;</display-name>
     <url>http://www.gatotv.com</url>
   </channel>
   <channel id="HBO HD">
@@ -689,255 +640,6 @@
   <programme start="20200916234500 -0500" stop="20200917013000 -0500" channel="A&amp;E">
     <title lang="es">Los indestructibles 2</title>
   </programme>
-  <programme start="20200914011000 -0500" stop="20200914014000 -0500" channel="A&amp;E HD">
-    <title lang="es">Metropoli</title>
-  </programme>
-  <programme start="20200914014000 -0500" stop="20200914023000 -0500" channel="A&amp;E HD">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20200914023000 -0500" stop="20200914032000 -0500" channel="A&amp;E HD">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-  <programme start="20200914032000 -0500" stop="20200914041000 -0500" channel="A&amp;E HD">
-    <title lang="es">Mi vida con sindrome de Down</title>
-  </programme>
-  <programme start="20200914041000 -0500" stop="20200914050500 -0500" channel="A&amp;E HD">
-    <title lang="es">Último día en libertad</title>
-  </programme>
-  <programme start="20200914050500 -0500" stop="20200914060000 -0500" channel="A&amp;E HD">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20200914060000 -0500" stop="20200914065500 -0500" channel="A&amp;E HD">
-    <title lang="es">Dr. Pie</title>
-  </programme>
-  <programme start="20200914065500 -0500" stop="20200914075000 -0500" channel="A&amp;E HD">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20200914075000 -0500" stop="20200914084000 -0500" channel="A&amp;E HD">
-    <title lang="es">Cultos y creencias extremas</title>
-  </programme>
-  <programme start="20200914084000 -0500" stop="20200914093000 -0500" channel="A&amp;E HD">
-    <title lang="es">Mi vida con sindrome de Down</title>
-  </programme>
-  <programme start="20200914093000 -0500" stop="20200914102000 -0500" channel="A&amp;E HD">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-  <programme start="20200914102000 -0500" stop="20200914111000 -0500" channel="A&amp;E HD">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20200914111000 -0500" stop="20200914114000 -0500" channel="A&amp;E HD">
-    <title lang="es">Metropoli</title>
-  </programme>
-  <programme start="20200914114000 -0500" stop="20200914120500 -0500" channel="A&amp;E HD">
-    <title lang="es">Metropoli</title>
-  </programme>
-  <programme start="20200914120500 -0500" stop="20200914125500 -0500" channel="A&amp;E HD">
-    <title lang="es">Último día en libertad</title>
-  </programme>
-  <programme start="20200914125500 -0500" stop="20200914134500 -0500" channel="A&amp;E HD">
-    <title lang="es">Los hermanos menéndez</title>
-  </programme>
-  <programme start="20200914134500 -0500" stop="20200914143500 -0500" channel="A&amp;E HD">
-    <title lang="es">Acusado ¿Culpable o inocente</title>
-  </programme>
-  <programme start="20200914143500 -0500" stop="20200914152500 -0500" channel="A&amp;E HD">
-    <title lang="es">Lo mejor de policias en Alaska</title>
-  </programme>
-  <programme start="20200914152500 -0500" stop="20200914161500 -0500" channel="A&amp;E HD">
-    <title lang="es">Cazadores de fantasmas</title>
-  </programme>
-  <programme start="20200914161500 -0500" stop="20200914164000 -0500" channel="A&amp;E HD">
-    <title lang="es">Court Cam Acción Judicial</title>
-  </programme>
-  <programme start="20200914164000 -0500" stop="20200914175000 -0500" channel="A&amp;E HD">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20200914175000 -0500" stop="20200914184000 -0500" channel="A&amp;E HD">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20200914184000 -0500" stop="20200914193000 -0500" channel="A&amp;E HD">
-    <title lang="es">Bull</title>
-  </programme>
-  <programme start="20200914193000 -0500" stop="20200914202000 -0500" channel="A&amp;E HD">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-  <programme start="20200914202000 -0500" stop="20200914211000 -0500" channel="A&amp;E HD">
-    <title lang="es">Cazadores de fantasmas</title>
-  </programme>
-  <programme start="20200914211000 -0500" stop="20200914220000 -0500" channel="A&amp;E HD">
-    <title lang="es">La vida pasada de mi hijo</title>
-  </programme>
-  <programme start="20200914220000 -0500" stop="20200914233500 -0500" channel="A&amp;E HD">
-    <title lang="es">Terror en Amityville</title>
-  </programme>
-  <programme start="20200914233500 -0500" stop="20200915002500 -0500" channel="A&amp;E HD">
-    <title lang="es">Acusado ¿Culpable o inocente</title>
-  </programme>
-  <programme start="20200915002500 -0500" stop="20200915011000 -0500" channel="A&amp;E HD">
-    <title lang="es">La vida pasada de mi hijo</title>
-  </programme>
-  <programme start="20200915011000 -0500" stop="20200915020000 -0500" channel="A&amp;E HD">
-    <title lang="es">La vida pasada de mi hijo</title>
-  </programme>
-  <programme start="20200915020000 -0500" stop="20200915025000 -0500" channel="A&amp;E HD">
-    <title lang="es">Los hermanos menéndez</title>
-  </programme>
-  <programme start="20200915025000 -0500" stop="20200915033500 -0500" channel="A&amp;E HD">
-    <title lang="es">Acusado ¿Culpable o inocente</title>
-  </programme>
-  <programme start="20200915033500 -0500" stop="20200915042500 -0500" channel="A&amp;E HD">
-    <title lang="es">Lo mejor de policias en Alaska</title>
-  </programme>
-  <programme start="20200915042500 -0500" stop="20200915051000 -0500" channel="A&amp;E HD">
-    <title lang="es">Cultos y creencias extremas</title>
-  </programme>
-  <programme start="20200915051000 -0500" stop="20200915060000 -0500" channel="A&amp;E HD">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20200915060000 -0500" stop="20200915064500 -0500" channel="A&amp;E HD">
-    <title lang="es">Cultos y creencias extremas</title>
-  </programme>
-  <programme start="20200915064500 -0500" stop="20200915073500 -0500" channel="A&amp;E HD">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20200915073500 -0500" stop="20200915082500 -0500" channel="A&amp;E HD">
-    <title lang="es">Las 9 caras de Jane</title>
-  </programme>
-  <programme start="20200915082500 -0500" stop="20200915091500 -0500" channel="A&amp;E HD">
-    <title lang="es">Lo mejor de policias en Alaska</title>
-  </programme>
-  <programme start="20200915091500 -0500" stop="20200915100500 -0500" channel="A&amp;E HD">
-    <title lang="es">Los hermanos menéndez</title>
-  </programme>
-  <programme start="20200915100500 -0500" stop="20200915105500 -0500" channel="A&amp;E HD">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20200915105500 -0500" stop="20200915114500 -0500" channel="A&amp;E HD">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-  <programme start="20200915114500 -0500" stop="20200915123500 -0500" channel="A&amp;E HD">
-    <title lang="es">Bull</title>
-  </programme>
-  <programme start="20200915123500 -0500" stop="20200915132500 -0500" channel="A&amp;E HD">
-    <title lang="es">La vida pasada de mi hijo</title>
-  </programme>
-  <programme start="20200915132500 -0500" stop="20200915141500 -0500" channel="A&amp;E HD">
-    <title lang="es">Lo mejor de policias en Alaska</title>
-  </programme>
-  <programme start="20200915141500 -0500" stop="20200915150500 -0500" channel="A&amp;E HD">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20200915150500 -0500" stop="20200915155500 -0500" channel="A&amp;E HD">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20200915155500 -0500" stop="20200915162500 -0500" channel="A&amp;E HD">
-    <title lang="es">Metropoli</title>
-  </programme>
-  <programme start="20200915162500 -0500" stop="20200915165000 -0500" channel="A&amp;E HD">
-    <title lang="es">Escuadrón de emergencias</title>
-  </programme>
-  <programme start="20200915165000 -0500" stop="20200915174000 -0500" channel="A&amp;E HD">
-    <title lang="es">Crímenes no resueltos</title>
-  </programme>
-  <programme start="20200915174000 -0500" stop="20200915183000 -0500" channel="A&amp;E HD">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20200915183000 -0500" stop="20200915192000 -0500" channel="A&amp;E HD">
-    <title lang="es">Bull</title>
-  </programme>
-  <programme start="20200915192000 -0500" stop="20200915201000 -0500" channel="A&amp;E HD">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-  <programme start="20200915201000 -0500" stop="20200915220000 -0500" channel="A&amp;E HD">
-    <title lang="es">El Transportador 3</title>
-  </programme>
-  <programme start="20200915220000 -0500" stop="20200915233500 -0500" channel="A&amp;E HD">
-    <title lang="es">El Especialista</title>
-  </programme>
-  <programme start="20200915233500 -0500" stop="20200916012000 -0500" channel="A&amp;E HD">
-    <title lang="es">Crank 2 Alto voltaje</title>
-  </programme>
-  <programme start="20200916012000 -0500" stop="20200916021000 -0500" channel="A&amp;E HD">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20200916021000 -0500" stop="20200916030000 -0500" channel="A&amp;E HD">
-    <title lang="es">Top Dog</title>
-  </programme>
-  <programme start="20200916030000 -0500" stop="20200916035000 -0500" channel="A&amp;E HD">
-    <title lang="es">Crímenes no resueltos</title>
-  </programme>
-  <programme start="20200916035000 -0500" stop="20200916044000 -0500" channel="A&amp;E HD">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-  <programme start="20200916044000 -0500" stop="20200916051000 -0500" channel="A&amp;E HD">
-    <title lang="es">Metropoli</title>
-  </programme>
-  <programme start="20200916051000 -0500" stop="20200916060000 -0500" channel="A&amp;E HD">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20200916060000 -0500" stop="20200916065000 -0500" channel="A&amp;E HD">
-    <title lang="es">Las 9 caras de Jane</title>
-  </programme>
-  <programme start="20200916065000 -0500" stop="20200916074000 -0500" channel="A&amp;E HD">
-    <title lang="es">Acumuladores compulsivos</title>
-  </programme>
-  <programme start="20200916074000 -0500" stop="20200916083000 -0500" channel="A&amp;E HD">
-    <title lang="es">Adictos a internet</title>
-  </programme>
-  <programme start="20200916083000 -0500" stop="20200916092000 -0500" channel="A&amp;E HD">
-    <title lang="es">El asesinato de Laci Peterson</title>
-  </programme>
-  <programme start="20200916092000 -0500" stop="20200916094500 -0500" channel="A&amp;E HD">
-    <title lang="es">Metropoli</title>
-  </programme>
-  <programme start="20200916094500 -0500" stop="20200916101000 -0500" channel="A&amp;E HD">
-    <title lang="es">Escuadrón de emergencias</title>
-  </programme>
-  <programme start="20200916101000 -0500" stop="20200916110000 -0500" channel="A&amp;E HD">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20200916110000 -0500" stop="20200916115000 -0500" channel="A&amp;E HD">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-  <programme start="20200916115000 -0500" stop="20200916124000 -0500" channel="A&amp;E HD">
-    <title lang="es">Bull</title>
-  </programme>
-  <programme start="20200916124000 -0500" stop="20200916133000 -0500" channel="A&amp;E HD">
-    <title lang="es">Crímenes no resueltos</title>
-  </programme>
-  <programme start="20200916133000 -0500" stop="20200916142000 -0500" channel="A&amp;E HD">
-    <title lang="es">60 días preso Atlanta</title>
-  </programme>
-  <programme start="20200916142000 -0500" stop="20200916151000 -0500" channel="A&amp;E HD">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20200916151000 -0500" stop="20200916154000 -0500" channel="A&amp;E HD">
-    <title lang="es">Metropoli</title>
-  </programme>
-  <programme start="20200916154000 -0500" stop="20200916160500 -0500" channel="A&amp;E HD">
-    <title lang="es">Escuadrón de emergencias</title>
-  </programme>
-  <programme start="20200916160500 -0500" stop="20200916165500 -0500" channel="A&amp;E HD">
-    <title lang="es">Acusado ¿Culpable o inocente</title>
-  </programme>
-  <programme start="20200916165500 -0500" stop="20200916174500 -0500" channel="A&amp;E HD">
-    <title lang="es">Lo mejor de policias en Alaska</title>
-  </programme>
-  <programme start="20200916174500 -0500" stop="20200916183500 -0500" channel="A&amp;E HD">
-    <title lang="es">Las Primeras 48 Horas</title>
-  </programme>
-  <programme start="20200916183500 -0500" stop="20200916202500 -0500" channel="A&amp;E HD">
-    <title lang="es">El Transportador 3</title>
-  </programme>
-  <programme start="20200916202500 -0500" stop="20200916220000 -0500" channel="A&amp;E HD">
-    <title lang="es">El Especialista</title>
-  </programme>
-  <programme start="20200916220000 -0500" stop="20200916234500 -0500" channel="A&amp;E HD">
-    <title lang="es">La hija de Dios</title>
-  </programme>
-  <programme start="20200916234500 -0500" stop="20200917013000 -0500" channel="A&amp;E HD">
-    <title lang="es">Los indestructibles 2</title>
-  </programme>
   <programme start="20200914015500 -0500" stop="20200914040000 -0500" channel="AMC HD">
     <title lang="es">6 Balas</title>
   </programme>
@@ -1083,153 +785,6 @@
     <title lang="es">Los indestructibles 3</title>
   </programme>
   <programme start="20200917220000 -0500" stop="20200918003500 -0500" channel="AMC HD">
-    <title lang="es">Dos policías rebeldes 2</title>
-  </programme>
-  <programme start="20200914015500 -0500" stop="20200914040000 -0500" channel="AMC">
-    <title lang="es">6 Balas</title>
-  </programme>
-  <programme start="20200914040000 -0500" stop="20200914070000 -0500" channel="AMC">
-    <title lang="es">Wake in fright</title>
-  </programme>
-  <programme start="20200914070000 -0500" stop="20200914073000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200914073000 -0500" stop="20200914080000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200914080000 -0500" stop="20200914083000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200914083000 -0500" stop="20200914090000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200914090000 -0500" stop="20200914093000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200914093000 -0500" stop="20200914100000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200914100000 -0500" stop="20200914115000 -0500" channel="AMC">
-    <title lang="es">An accidental studio</title>
-  </programme>
-  <programme start="20200914115000 -0500" stop="20200914133500 -0500" channel="AMC">
-    <title lang="es">Magia a la luz de la luna</title>
-  </programme>
-  <programme start="20200914133500 -0500" stop="20200914152000 -0500" channel="AMC">
-    <title lang="es">La venganza de Wyatt Earp</title>
-  </programme>
-  <programme start="20200914152000 -0500" stop="20200914170000 -0500" channel="AMC">
-    <title lang="es">El luchador</title>
-  </programme>
-  <programme start="20200914170000 -0500" stop="20200914184500 -0500" channel="AMC">
-    <title lang="es">El desterrado</title>
-  </programme>
-  <programme start="20200914184500 -0500" stop="20200914202000 -0500" channel="AMC">
-    <title lang="es">Hancock</title>
-  </programme>
-  <programme start="20200914202000 -0500" stop="20200914220000 -0500" channel="AMC">
-    <title lang="es">Ghost rider</title>
-  </programme>
-  <programme start="20200914220000 -0500" stop="20200914230000 -0500" channel="AMC">
-    <title lang="es">NOS4A2 (Nosferatu)</title>
-  </programme>
-  <programme start="20200914230000 -0500" stop="20200915010500 -0500" channel="AMC">
-    <title lang="es">El Apocalipsis</title>
-  </programme>
-  <programme start="20200915230000 -0500" stop="20200916010500 -0500" channel="AMC">
-    <title lang="es">El Apocalipsis</title>
-  </programme>
-  <programme start="20200916010500 -0500" stop="20200916031500 -0500" channel="AMC">
-    <title lang="es">6 Balas</title>
-  </programme>
-  <programme start="20200916031500 -0500" stop="20200916050000 -0500" channel="AMC">
-    <title lang="es">La venganza de Wyatt Earp</title>
-  </programme>
-  <programme start="20200916050000 -0500" stop="20200916060000 -0500" channel="AMC">
-    <title lang="es">Fear The Walking Dead</title>
-  </programme>
-  <programme start="20200916060000 -0500" stop="20200916063000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200916063000 -0500" stop="20200916070000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200916070000 -0500" stop="20200916073000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200916073000 -0500" stop="20200916080000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200916080000 -0500" stop="20200916083000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200916083000 -0500" stop="20200916090000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200916090000 -0500" stop="20200916093000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200916093000 -0500" stop="20200916100000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200916100000 -0500" stop="20200916115500 -0500" channel="AMC">
-    <title lang="es">The Cutting Edge</title>
-  </programme>
-  <programme start="20200916115500 -0500" stop="20200916140000 -0500" channel="AMC">
-    <title lang="es">Whip It</title>
-  </programme>
-  <programme start="20200916140000 -0500" stop="20200916162500 -0500" channel="AMC">
-    <title lang="es">Hombre de Familia</title>
-  </programme>
-  <programme start="20200916162500 -0500" stop="20200916181500 -0500" channel="AMC">
-    <title lang="es">Asesinos con estilo</title>
-  </programme>
-  <programme start="20200916181500 -0500" stop="20200916200500 -0500" channel="AMC">
-    <title lang="es">Votos de amor</title>
-  </programme>
-  <programme start="20200916200500 -0500" stop="20200916220000 -0500" channel="AMC">
-    <title lang="es">El Apocalipsis</title>
-  </programme>
-  <programme start="20200916220000 -0500" stop="20200917001500 -0500" channel="AMC">
-    <title lang="es">Riddick</title>
-  </programme>
-  <programme start="20200917001500 -0500" stop="20200917023500 -0500" channel="AMC">
-    <title lang="es">Desde mi cielo</title>
-  </programme>
-  <programme start="20200917023500 -0500" stop="20200917043000 -0500" channel="AMC">
-    <title lang="es">En la mira</title>
-  </programme>
-  <programme start="20200917043000 -0500" stop="20200917053000 -0500" channel="AMC">
-    <title lang="es">Fear The Walking Dead</title>
-  </programme>
-  <programme start="20200917053000 -0500" stop="20200917060000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200917060000 -0500" stop="20200917063000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200917063000 -0500" stop="20200917070000 -0500" channel="AMC">
-    <title lang="es">Action Zone</title>
-  </programme>
-  <programme start="20200917100000 -0500" stop="20200917120000 -0500" channel="AMC">
-    <title lang="es">Autómata</title>
-  </programme>
-  <programme start="20200917120000 -0500" stop="20200917135500 -0500" channel="AMC">
-    <title lang="es">Amigos con beneficios</title>
-  </programme>
-  <programme start="20200917135500 -0500" stop="20200917154500 -0500" channel="AMC">
-    <title lang="es">Vivir Entre Fuegos</title>
-  </programme>
-  <programme start="20200917154500 -0500" stop="20200917175000 -0500" channel="AMC">
-    <title lang="es">Un Lugar Donde Refugiarse</title>
-  </programme>
-  <programme start="20200917175000 -0500" stop="20200917194500 -0500" channel="AMC">
-    <title lang="es">Amigos con beneficios</title>
-  </programme>
-  <programme start="20200917194500 -0500" stop="20200917220000 -0500" channel="AMC">
-    <title lang="es">Los indestructibles 3</title>
-  </programme>
-  <programme start="20200917220000 -0500" stop="20200918003500 -0500" channel="AMC">
     <title lang="es">Dos policías rebeldes 2</title>
   </programme>
   <programme start="20200914000800 -0500" stop="20200914010200 -0500" channel="Animal Planet HD">
@@ -1733,240 +1288,6 @@
   <programme start="20200917235000 -0500" stop="20200918004500 -0500" channel="AXN HD">
     <title lang="es">Hawaii Five-0</title>
   </programme>
-  <programme start="20200914013500 -0500" stop="20200914023000 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200914023000 -0500" stop="20200914032500 -0500" channel="AXN">
-    <title lang="es">CSI: Miami</title>
-  </programme>
-  <programme start="20200914032500 -0500" stop="20200914041500 -0500" channel="AXN">
-    <title lang="es">CSI</title>
-  </programme>
-  <programme start="20200914041500 -0500" stop="20200914050500 -0500" channel="AXN">
-    <title lang="es">CSI</title>
-  </programme>
-  <programme start="20200914050500 -0500" stop="20200914060000 -0500" channel="AXN">
-    <title lang="es">CSI</title>
-  </programme>
-  <programme start="20200914060000 -0500" stop="20200914070000 -0500" channel="AXN">
-    <title lang="es">CSI</title>
-  </programme>
-  <programme start="20200914070000 -0500" stop="20200914080000 -0500" channel="AXN">
-    <title lang="es">CSI</title>
-  </programme>
-  <programme start="20200914080000 -0500" stop="20200914090000 -0500" channel="AXN">
-    <title lang="es">CSI</title>
-  </programme>
-  <programme start="20200914090000 -0500" stop="20200914100000 -0500" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-  <programme start="20200914100000 -0500" stop="20200914105500 -0500" channel="AXN">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-  <programme start="20200914105500 -0500" stop="20200914115000 -0500" channel="AXN">
-    <title lang="es">NCIS: New Orleans</title>
-  </programme>
-  <programme start="20200914115000 -0500" stop="20200914124500 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200914124500 -0500" stop="20200914134000 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200914134000 -0500" stop="20200914143500 -0500" channel="AXN">
-    <title lang="es">CSI: NY</title>
-  </programme>
-  <programme start="20200914143500 -0500" stop="20200914153000 -0500" channel="AXN">
-    <title lang="es">CSI</title>
-  </programme>
-  <programme start="20200914153000 -0500" stop="20200914162500 -0500" channel="AXN">
-    <title lang="es">CSI: Miami</title>
-  </programme>
-  <programme start="20200914162500 -0500" stop="20200914172000 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200914172000 -0500" stop="20200914181500 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200914181500 -0500" stop="20200914191000 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200914191000 -0500" stop="20200914200500 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200914200500 -0500" stop="20200914210000 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200914210000 -0500" stop="20200914220000 -0500" channel="AXN">
-    <title lang="es">Castle</title>
-  </programme>
-  <programme start="20200914220000 -0500" stop="20200914225500 -0500" channel="AXN">
-    <title lang="es">Castle</title>
-  </programme>
-  <programme start="20200914225500 -0500" stop="20200914235500 -0500" channel="AXN">
-    <title lang="es">Absentia</title>
-  </programme>
-  <programme start="20200914235500 -0500" stop="20200915005000 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200915235500 -0500" stop="20200916005000 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200916005000 -0500" stop="20200916014000 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200916014000 -0500" stop="20200916023000 -0500" channel="AXN">
-    <title lang="es">CSI: Miami</title>
-  </programme>
-  <programme start="20200916023000 -0500" stop="20200916033000 -0500" channel="AXN">
-    <title lang="es">Absentia</title>
-  </programme>
-  <programme start="20200916033000 -0500" stop="20200916042000 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200916042000 -0500" stop="20200916051000 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200916051000 -0500" stop="20200916060000 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200916060000 -0500" stop="20200916070000 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200916070000 -0500" stop="20200916080000 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200916080000 -0500" stop="20200916090000 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200916090000 -0500" stop="20200916100000 -0500" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-  <programme start="20200916100000 -0500" stop="20200916105500 -0500" channel="AXN">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-  <programme start="20200916105500 -0500" stop="20200916115000 -0500" channel="AXN">
-    <title lang="es">NCIS: New Orleans</title>
-  </programme>
-  <programme start="20200916115000 -0500" stop="20200916124500 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200916124500 -0500" stop="20200916134000 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200916134000 -0500" stop="20200916143500 -0500" channel="AXN">
-    <title lang="es">CSI: NY</title>
-  </programme>
-  <programme start="20200916143500 -0500" stop="20200916153000 -0500" channel="AXN">
-    <title lang="es">CSI</title>
-  </programme>
-  <programme start="20200916153000 -0500" stop="20200916162500 -0500" channel="AXN">
-    <title lang="es">CSI: Miami</title>
-  </programme>
-  <programme start="20200916162500 -0500" stop="20200916172000 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200916172000 -0500" stop="20200916181500 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200916181500 -0500" stop="20200916191000 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200916191000 -0500" stop="20200916200500 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200916200500 -0500" stop="20200916210000 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200916210000 -0500" stop="20200916220000 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200916220000 -0500" stop="20200916225500 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200916225500 -0500" stop="20200916235000 -0500" channel="AXN">
-    <title lang="es">L.A.'s finest</title>
-  </programme>
-  <programme start="20200916235000 -0500" stop="20200917004500 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200917004500 -0500" stop="20200917014000 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200917014000 -0500" stop="20200917023500 -0500" channel="AXN">
-    <title lang="es">CSI: Miami</title>
-  </programme>
-  <programme start="20200917023500 -0500" stop="20200917032500 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200917032500 -0500" stop="20200917041500 -0500" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-  <programme start="20200917041500 -0500" stop="20200917050500 -0500" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-  <programme start="20200917050500 -0500" stop="20200917060000 -0500" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-  <programme start="20200917060000 -0500" stop="20200917070000 -0500" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-  <programme start="20200917070000 -0500" stop="20200917080000 -0500" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-  <programme start="20200917080000 -0500" stop="20200917090000 -0500" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-  <programme start="20200917090000 -0500" stop="20200917100000 -0500" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-  <programme start="20200917100000 -0500" stop="20200917105500 -0500" channel="AXN">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-  <programme start="20200917105500 -0500" stop="20200917115000 -0500" channel="AXN">
-    <title lang="es">NCIS: New Orleans</title>
-  </programme>
-  <programme start="20200917115000 -0500" stop="20200917124500 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200917124500 -0500" stop="20200917134000 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200917134000 -0500" stop="20200917143500 -0500" channel="AXN">
-    <title lang="es">CSI: NY</title>
-  </programme>
-  <programme start="20200917143500 -0500" stop="20200917153000 -0500" channel="AXN">
-    <title lang="es">CSI</title>
-  </programme>
-  <programme start="20200917153000 -0500" stop="20200917162500 -0500" channel="AXN">
-    <title lang="es">CSI: Miami</title>
-  </programme>
-  <programme start="20200917162500 -0500" stop="20200917172000 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200917172000 -0500" stop="20200917181500 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
-  <programme start="20200917181500 -0500" stop="20200917191000 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200917191000 -0500" stop="20200917200500 -0500" channel="AXN">
-    <title lang="es">Criminal Minds</title>
-  </programme>
-  <programme start="20200917200500 -0500" stop="20200917210000 -0500" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-  <programme start="20200917210000 -0500" stop="20200917220000 -0500" channel="AXN">
-    <title lang="es">NCIS</title>
-  </programme>
-  <programme start="20200917220000 -0500" stop="20200917225500 -0500" channel="AXN">
-    <title lang="es">NCIS: New Orleans</title>
-  </programme>
-  <programme start="20200917225500 -0500" stop="20200917235000 -0500" channel="AXN">
-    <title lang="es">NCIS: Los Ángeles</title>
-  </programme>
-  <programme start="20200917235000 -0500" stop="20200918004500 -0500" channel="AXN">
-    <title lang="es">Hawaii Five-0</title>
-  </programme>
   <programme start="20200914020000 -0500" stop="20200914030000 -0500" channel="Az Clic">
     <title lang="es">Be</title>
   </programme>
@@ -2185,78 +1506,6 @@
   </programme>
   <programme start="20200916193000 -0500" stop="20200916200000 -0500" channel="Az Clic">
     <title lang="es">Tecno life</title>
-  </programme>
-  <programme start="20200914001200 -0500" stop="20200914010000 -0500" channel="Az Corazón HD">
-    <title lang="es">Gata salvaje - Parte 2</title>
-  </programme>
-  <programme start="20200914010000 -0500" stop="20200914020000 -0500" channel="Az Corazón HD">
-    <title lang="es">Mujeres rompiendo el silencio</title>
-  </programme>
-  <programme start="20200914020000 -0500" stop="20200914024800 -0500" channel="Az Corazón HD">
-    <title lang="es">Los rey - Parte 2</title>
-  </programme>
-  <programme start="20200914024800 -0500" stop="20200914033600 -0500" channel="Az Corazón HD">
-    <title lang="es">Los rey - Parte 2</title>
-  </programme>
-  <programme start="20200914033600 -0500" stop="20200914042400 -0500" channel="Az Corazón HD">
-    <title lang="es">Los rey - Parte 2</title>
-  </programme>
-  <programme start="20200914042400 -0500" stop="20200914051200 -0500" channel="Az Corazón HD">
-    <title lang="es">Los rey - Parte 2</title>
-  </programme>
-  <programme start="20200914051200 -0500" stop="20200914060000 -0500" channel="Az Corazón HD">
-    <title lang="es">Los rey - Parte 2</title>
-  </programme>
-  <programme start="20200914060000 -0500" stop="20200914073000 -0500" channel="Az Corazón HD">
-    <title lang="es">Huérfanas - Parte 2</title>
-  </programme>
-  <programme start="20200914073000 -0500" stop="20200914090000 -0500" channel="Az Corazón HD">
-    <title lang="es">Los Rey - Resumen</title>
-  </programme>
-  <programme start="20200914090000 -0500" stop="20200914103000 -0500" channel="Az Corazón HD">
-    <title lang="es">Emperatriz - Resumen</title>
-  </programme>
-  <programme start="20200914103000 -0500" stop="20200914120000 -0500" channel="Az Corazón HD">
-    <title lang="es">Gata salvaje - Parte 2</title>
-  </programme>
-  <programme start="20200914120000 -0500" stop="20200914133000 -0500" channel="Az Corazón HD">
-    <title lang="es">Huérfanas - Parte 2</title>
-  </programme>
-  <programme start="20200914133000 -0500" stop="20200914150000 -0500" channel="Az Corazón HD">
-    <title lang="es">Los Rey - Resumen</title>
-  </programme>
-  <programme start="20200914150000 -0500" stop="20200914164500 -0500" channel="Az Corazón HD">
-    <title lang="es">Emperatriz - Resumen</title>
-  </programme>
-  <programme start="20200914164500 -0500" stop="20200914180000 -0500" channel="Az Corazón HD">
-    <title lang="es">Gata salvaje - Parte 2</title>
-  </programme>
-  <programme start="20200914180000 -0500" stop="20200914193000 -0500" channel="Az Corazón HD">
-    <title lang="es">Huérfanas - Parte 2</title>
-  </programme>
-  <programme start="20200914193000 -0500" stop="20200914210000 -0500" channel="Az Corazón HD">
-    <title lang="es">Los Rey - Resumen</title>
-  </programme>
-  <programme start="20200914210000 -0500" stop="20200914223000 -0500" channel="Az Corazón HD">
-    <title lang="es">Emperatriz - Resumen</title>
-  </programme>
-  <programme start="20200914223000 -0500" stop="20200915000000 -0500" channel="Az Corazón HD">
-    <title lang="es">Gata salvaje - Parte 2</title>
-  </programme>
-  <programme start="20200915000000 -0500" stop="20200915013000 -0500" channel="Az Corazón HD">
-    <title lang="es">Huérfanas - Parte 2</title>
-  </programme>
-  <programme start="20200915013000 -0500" stop="20200915030000 -0500" channel="Az Corazón HD">
-    <title lang="es">Los Rey - Resumen</title>
-  </programme>
-  <programme start="20200915030000 -0500" stop="20200915043000 -0500" channel="Az Corazón HD">
-    <title lang="es">Emperatriz - Resumen</title>
-  </programme>
-  <programme start="20200915043000 -0500" stop="20200915060000 -0500" channel="Az Corazón HD">
-    <title lang="es">Gata salvaje - Parte 2</title>
-  </programme>
-  <programme start="20200915133000 -0500" stop="20200915150000 -0500" channel="Az Corazón HD">
-    <title lang="es">Los Rey - Resumen</title>
   </programme>
   <programme start="20200914001200 -0500" stop="20200914010000 -0500" channel="Az Corazón">
     <title lang="es">Gata salvaje - Parte 2</title>
@@ -2916,204 +2165,6 @@
     <title lang="es">This is Paris</title>
   </programme>
   <programme start="20200916233000 -0500" stop="20200917000000 -0500" channel="BeinSports HD">
-    <title lang="es">The Ligue 1 Show</title>
-  </programme>
-  <programme start="20200914010000 -0500" stop="20200914020000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">The Soccer Xtra</title>
-  </programme>
-  <programme start="20200914020000 -0500" stop="20200914023000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200914023000 -0500" stop="20200914030000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200914030000 -0500" stop="20200914033000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200914033000 -0500" stop="20200914040000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200914040000 -0500" stop="20200914043000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200914043000 -0500" stop="20200914050000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200914050000 -0500" stop="20200914053000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200914053000 -0500" stop="20200914060000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200914060000 -0500" stop="20200914063000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20200914063000 -0500" stop="20200914070000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">LaLiga 2020-2021: Valencia vs. Levante</title>
-  </programme>
-  <programme start="20200914070000 -0500" stop="20200914073000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200914073000 -0500" stop="20200914080000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Ligue 1 2020-2021: Paris Saint-Germain vs. Marseille</title>
-  </programme>
-  <programme start="20200914080000 -0500" stop="20200914083000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20200914083000 -0500" stop="20200914090000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">La gloria eterna</title>
-  </programme>
-  <programme start="20200914090000 -0500" stop="20200914093000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">La gloria eterna</title>
-  </programme>
-  <programme start="20200914093000 -0500" stop="20200914100000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200914100000 -0500" stop="20200914115500 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Mallorca vs. Rayo Vallecano</title>
-  </programme>
-  <programme start="20200914115500 -0500" stop="20200914140000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Hatayspor vs. Basaksehir</title>
-  </programme>
-  <programme start="20200914140000 -0500" stop="20200914160000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Alavés vs. Betis</title>
-  </programme>
-  <programme start="20200914160000 -0500" stop="20200914163000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">LaLiga 2020-2021: Granda vs. Athletic Club</title>
-  </programme>
-  <programme start="20200914163000 -0500" stop="20200914173000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">La Liga Highlight Zone</title>
-  </programme>
-  <programme start="20200914173000 -0500" stop="20200914180000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">The Ligue 1 Show</title>
-  </programme>
-  <programme start="20200914180000 -0500" stop="20200914200000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Valencia vs. Levante</title>
-  </programme>
-  <programme start="20200914200000 -0500" stop="20200914210000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20200914210000 -0500" stop="20200914213000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">The Ligue 1 Show</title>
-  </programme>
-  <programme start="20200914213000 -0500" stop="20200914220000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">La gloria eterna</title>
-  </programme>
-  <programme start="20200914220000 -0500" stop="20200914223000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">La gloria eterna</title>
-  </programme>
-  <programme start="20200914223000 -0500" stop="20200914230000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Ligue 1 2020-2021: Paris Saint-Germain vs. Marseille</title>
-  </programme>
-  <programme start="20200914230000 -0500" stop="20200915000000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20200915000000 -0500" stop="20200915020000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Alavés vs. Betis</title>
-  </programme>
-  <programme start="20200915020000 -0500" stop="20200915023000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200915023000 -0500" stop="20200915030000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200915030000 -0500" stop="20200915033000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200915033000 -0500" stop="20200915040000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200915040000 -0500" stop="20200915043000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200915043000 -0500" stop="20200915050000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200915050000 -0500" stop="20200915053000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200915053000 -0500" stop="20200915060000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Programa Pagado</title>
-  </programme>
-  <programme start="20200915060000 -0500" stop="20200915070000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">The Locker Room</title>
-  </programme>
-  <programme start="20200915073000 -0500" stop="20200915080000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">LaLiga 2020-2021: Valladolid vs. Real Sociedad</title>
-  </programme>
-  <programme start="20200915080000 -0500" stop="20200915083000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">2020-2021: Galatasaray vs. Gaziantepspor</title>
-  </programme>
-  <programme start="20200915100000 -0500" stop="20200915120000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Valencia vs. Levante</title>
-  </programme>
-  <programme start="20200915120000 -0500" stop="20200915135500 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Paris Saint-Germain vs. Marseille</title>
-  </programme>
-  <programme start="20200915135500 -0500" stop="20200915160000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Montpellier vs. Lyon</title>
-  </programme>
-  <programme start="20200915160000 -0500" stop="20200915163000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">La gloria eterna</title>
-  </programme>
-  <programme start="20200915163000 -0500" stop="20200915165500 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">La gloria eterna</title>
-  </programme>
-  <programme start="20200915165500 -0500" stop="20200915170500 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">The Express Preview</title>
-  </programme>
-  <programme start="20200915170500 -0500" stop="20200915191500 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Colo-Colo vs. Peñarol</title>
-  </programme>
-  <programme start="20200915191500 -0500" stop="20200915192000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">The Express Preview</title>
-  </programme>
-  <programme start="20200915192000 -0500" stop="20200915213000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Santos vs. Olimpia</title>
-  </programme>
-  <programme start="20200915223000 -0500" stop="20200915230000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">This is Paris</title>
-  </programme>
-  <programme start="20200915230000 -0500" stop="20200915233000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">The Ligue 1 Show</title>
-  </programme>
-  <programme start="20200915233000 -0500" stop="20200916000000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">LaLiga 2020-2021: Granda vs. Athletic Club</title>
-  </programme>
-  <programme start="20200916000000 -0500" stop="20200916020000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Montpellier vs. Lyon</title>
-  </programme>
-  <programme start="20200916060000 -0500" stop="20200916070000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">La Liga Highlight Zone</title>
-  </programme>
-  <programme start="20200916073000 -0500" stop="20200916080000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">LaLiga 2020-2021: Valencia vs. Levante</title>
-  </programme>
-  <programme start="20200916080000 -0500" stop="20200916083000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">This is Paris</title>
-  </programme>
-  <programme start="20200916100000 -0500" stop="20200916120000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Jorge Wilstermann vs. Athletico Paranaense</title>
-  </programme>
-  <programme start="20200916120000 -0500" stop="20200916135500 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Binacional vs. Liga de Quito</title>
-  </programme>
-  <programme start="20200916135500 -0500" stop="20200916160000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Paris Saint-Germain vs. Metz</title>
-  </programme>
-  <programme start="20200916170500 -0500" stop="20200916191500 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Internacional vs. América de Cali</title>
-  </programme>
-  <programme start="20200916192000 -0500" stop="20200916213000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">Universidad Católica vs. Gremio</title>
-  </programme>
-  <programme start="20200916223000 -0500" stop="20200916230000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">La liga World</title>
-  </programme>
-  <programme start="20200916230000 -0500" stop="20200916233000 -0500" channel="BeinSports Ñ HD">
-    <title lang="es">This is Paris</title>
-  </programme>
-  <programme start="20200916233000 -0500" stop="20200917000000 -0500" channel="BeinSports Ñ HD">
     <title lang="es">The Ligue 1 Show</title>
   </programme>
   <programme start="20200914010000 -0500" stop="20200914020000 -0500" channel="Boomerang HD">
@@ -3961,5 +3012,677 @@
   </programme>
   <programme start="20200916234500 -0500" stop="20200917013000 -0500" channel="Cinecanal HD">
     <title lang="es">Las Niñas Bien</title>
+  </programme>
+  <programme start="20200914015800 -0500" stop="20200914041000 -0500" channel="Cinemax HD">
+    <title lang="es">Tropa De Elite</title>
+  </programme>
+  <programme start="20200914041000 -0500" stop="20200914060700 -0500" channel="Cinemax HD">
+    <title lang="es">When strangers appear</title>
+  </programme>
+  <programme start="20200914060700 -0500" stop="20200914081400 -0500" channel="Cinemax HD">
+    <title lang="es">Herencia de familia</title>
+  </programme>
+  <programme start="20200914081400 -0500" stop="20200914100300 -0500" channel="Cinemax HD">
+    <title lang="es">Los Croods</title>
+  </programme>
+  <programme start="20200914100300 -0500" stop="20200914120000 -0500" channel="Cinemax HD">
+    <title lang="es">Robo en las alturas</title>
+  </programme>
+  <programme start="20200914120000 -0500" stop="20200914144500 -0500" channel="Cinemax HD">
+    <title lang="es">El luchador</title>
+  </programme>
+  <programme start="20200914144500 -0500" stop="20200914165000 -0500" channel="Cinemax HD">
+    <title lang="es">Hombre de Familia</title>
+  </programme>
+  <programme start="20200914165000 -0500" stop="20200914183800 -0500" channel="Cinemax HD">
+    <title lang="es">Los Croods</title>
+  </programme>
+  <programme start="20200914183800 -0500" stop="20200914210000 -0500" channel="Cinemax HD">
+    <title lang="es">Ligeramente embarazada</title>
+  </programme>
+  <programme start="20200914210000 -0500" stop="20200914225700 -0500" channel="Cinemax HD">
+    <title lang="es">Robo en las alturas</title>
+  </programme>
+  <programme start="20200914225700 -0500" stop="20200915013000 -0500" channel="Cinemax HD">
+    <title lang="es">Secreto en la Montaña</title>
+  </programme>
+  <programme start="20200915225700 -0500" stop="20200916013000 -0500" channel="Cinemax HD">
+    <title lang="es">Secreto en la Montaña</title>
+  </programme>
+  <programme start="20200916013000 -0500" stop="20200916043900 -0500" channel="Cinemax HD">
+    <title lang="es">La última tentación de Cristo</title>
+  </programme>
+  <programme start="20200916043900 -0500" stop="20200916074000 -0500" channel="Cinemax HD">
+    <title lang="es">Los miserables</title>
+  </programme>
+  <programme start="20200916074000 -0500" stop="20200916103200 -0500" channel="Cinemax HD">
+    <title lang="es">Armageddon</title>
+  </programme>
+  <programme start="20200916103200 -0500" stop="20200916122400 -0500" channel="Cinemax HD">
+    <title lang="es">Seis días y siete noches</title>
+  </programme>
+  <programme start="20200916122400 -0500" stop="20200916141400 -0500" channel="Cinemax HD">
+    <title lang="es">Furia de Titanes</title>
+  </programme>
+  <programme start="20200916141400 -0500" stop="20200916155400 -0500" channel="Cinemax HD">
+    <title lang="es">Yo soy la venganza</title>
+  </programme>
+  <programme start="20200916155400 -0500" stop="20200916181100 -0500" channel="Cinemax HD">
+    <title lang="es">Los indestructibles 3</title>
+  </programme>
+  <programme start="20200916181100 -0500" stop="20200916210000 -0500" channel="Cinemax HD">
+    <title lang="es">Armageddon</title>
+  </programme>
+  <programme start="20200916210000 -0500" stop="20200916225400 -0500" channel="Cinemax HD">
+    <title lang="es">Furia de Titanes</title>
+  </programme>
+  <programme start="20200916225400 -0500" stop="20200917003900 -0500" channel="Cinemax HD">
+    <title lang="es">Freddy vs Jason</title>
+  </programme>
+  <programme start="20200917003900 -0500" stop="20200917022200 -0500" channel="Cinemax HD">
+    <title lang="es">Viene de Noche</title>
+  </programme>
+  <programme start="20200917022200 -0500" stop="20200917041400 -0500" channel="Cinemax HD">
+    <title lang="es">Los buenos tiempos</title>
+  </programme>
+  <programme start="20200917041400 -0500" stop="20200917060800 -0500" channel="Cinemax HD">
+    <title lang="es">Elsa y Fred</title>
+  </programme>
+  <programme start="20200917060800 -0500" stop="20200917083000 -0500" channel="Cinemax HD">
+    <title lang="es">Rápidos y Furiosos: 5in Control</title>
+  </programme>
+  <programme start="20200917083000 -0500" stop="20200917102100 -0500" channel="Cinemax HD">
+    <title lang="es">Hombres de élite</title>
+  </programme>
+  <programme start="20200917102100 -0500" stop="20200917124300 -0500" channel="Cinemax HD">
+    <title lang="es">Rápidos y Furiosos 6</title>
+  </programme>
+  <programme start="20200917124300 -0500" stop="20200917141900 -0500" channel="Cinemax HD">
+    <title lang="es">Pasajero 57</title>
+  </programme>
+  <programme start="20200917141900 -0500" stop="20200917161200 -0500" channel="Cinemax HD">
+    <title lang="es">Linea de fuego</title>
+  </programme>
+  <programme start="20200917161200 -0500" stop="20200917183700 -0500" channel="Cinemax HD">
+    <title lang="es">Tropa de Héroes</title>
+  </programme>
+  <programme start="20200917183700 -0500" stop="20200917210000 -0500" channel="Cinemax HD">
+    <title lang="es">Rápidos y Furiosos: 5in Control</title>
+  </programme>
+  <programme start="20200917210000 -0500" stop="20200917232200 -0500" channel="Cinemax HD">
+    <title lang="es">Rápidos y Furiosos 6</title>
+  </programme>
+  <programme start="20200917232200 -0500" stop="20200918012200 -0500" channel="Cinemax HD">
+    <title lang="es">Machete</title>
+  </programme>
+  <programme start="20200914002500 -0500" stop="20200914012500 -0500" channel="Comedy Central HD">
+    <title lang="es">La culpa es de la Malinche</title>
+  </programme>
+  <programme start="20200914012500 -0500" stop="20200914015500 -0500" channel="Comedy Central HD">
+    <title lang="es">Fleabag</title>
+  </programme>
+  <programme start="20200914015500 -0500" stop="20200914022500 -0500" channel="Comedy Central HD">
+    <title lang="es">Drawn Together</title>
+  </programme>
+  <programme start="20200914022500 -0500" stop="20200914025000 -0500" channel="Comedy Central HD">
+    <title lang="es">Drawn Together</title>
+  </programme>
+  <programme start="20200914025000 -0500" stop="20200914031500 -0500" channel="Comedy Central HD">
+    <title lang="es">Drawn Together</title>
+  </programme>
+  <programme start="20200914031500 -0500" stop="20200914034000 -0500" channel="Comedy Central HD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20200914034000 -0500" stop="20200914040500 -0500" channel="Comedy Central HD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20200914040500 -0500" stop="20200914043000 -0500" channel="Comedy Central HD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20200914043000 -0500" stop="20200914050000 -0500" channel="Comedy Central HD">
+    <title lang="es">South Park</title>
+  </programme>
+  <programme start="20200914050000 -0500" stop="20200914053000 -0500" channel="Comedy Central HD">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20200914053000 -0500" stop="20200914060000 -0500" channel="Comedy Central HD">
+    <title lang="es">Lip Sync Battle</title>
+  </programme>
+  <programme start="20200914060000 -0500" stop="20200914062500 -0500" channel="Comedy Central HD">
+    <title lang="es">Idiotas por accidente</title>
+  </programme>
+  <programme start="20200914062500 -0500" stop="20200914065500 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200914065500 -0500" stop="20200914072000 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200914072000 -0500" stop="20200914075000 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200914075000 -0500" stop="20200914081500 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200914081500 -0500" stop="20200914084000 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200914084000 -0500" stop="20200914091000 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200914091000 -0500" stop="20200914093500 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200914093500 -0500" stop="20200914100500 -0500" channel="Comedy Central HD">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20200914100500 -0500" stop="20200914103500 -0500" channel="Comedy Central HD">
+    <title lang="es">Todo el mundo odia a Chris</title>
+  </programme>
+  <programme start="20200914103500 -0500" stop="20200914110000 -0500" channel="Comedy Central HD">
+    <title lang="es">Todo el mundo odia a Chris</title>
+  </programme>
+  <programme start="20200914110000 -0500" stop="20200914113000 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200914113000 -0500" stop="20200914120000 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200914120000 -0500" stop="20200914123000 -0500" channel="Comedy Central HD">
+    <title lang="es">Backdoor</title>
+  </programme>
+  <programme start="20200914123000 -0500" stop="20200914125500 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200914125500 -0500" stop="20200914132500 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200914132500 -0500" stop="20200914135000 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200914135000 -0500" stop="20200914145000 -0500" channel="Comedy Central HD">
+    <title lang="es">Palazuelos mi rey</title>
+  </programme>
+  <programme start="20200914145000 -0500" stop="20200914152000 -0500" channel="Comedy Central HD">
+    <title lang="es">Backdoor</title>
+  </programme>
+  <programme start="20200914152000 -0500" stop="20200914155000 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200914155000 -0500" stop="20200914161500 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200914161500 -0500" stop="20200914164500 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200914164500 -0500" stop="20200914171000 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200914171000 -0500" stop="20200914174000 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200914174000 -0500" stop="20200914181500 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200914181500 -0500" stop="20200914183000 -0500" channel="Comedy Central HD">
+    <title lang="es">Comediantes en Casa</title>
+  </programme>
+  <programme start="20200914183000 -0500" stop="20200914190000 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200914190000 -0500" stop="20200914193000 -0500" channel="Comedy Central HD">
+    <title lang="es">Cc stand-up</title>
+  </programme>
+  <programme start="20200914193000 -0500" stop="20200914200000 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200914200000 -0500" stop="20200914203000 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200914203000 -0500" stop="20200914211000 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200914211000 -0500" stop="20200914220500 -0500" channel="Comedy Central HD">
+    <title lang="es">Palazuelos mi rey</title>
+  </programme>
+  <programme start="20200914220500 -0500" stop="20200914230000 -0500" channel="Comedy Central HD">
+    <title lang="es">Palazuelos mi rey</title>
+  </programme>
+  <programme start="20200914230000 -0500" stop="20200915000000 -0500" channel="Comedy Central HD">
+    <title lang="es">La culpa es de la Malinche</title>
+  </programme>
+  <programme start="20200915000000 -0500" stop="20200915010000 -0500" channel="Comedy Central HD">
+    <title lang="es">Comedy Central Presenta</title>
+  </programme>
+  <programme start="20200915010000 -0500" stop="20200915013000 -0500" channel="Comedy Central HD">
+    <title lang="es">Fleabag</title>
+  </programme>
+  <programme start="20200915013000 -0500" stop="20200915020000 -0500" channel="Comedy Central HD">
+    <title lang="es">The office</title>
+  </programme>
+  <programme start="20200915020000 -0500" stop="20200915022500 -0500" channel="Comedy Central HD">
+    <title lang="es">Drawn Together</title>
+  </programme>
+  <programme start="20200915110000 -0500" stop="20200915113000 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200915113000 -0500" stop="20200915120000 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200915120000 -0500" stop="20200915123000 -0500" channel="Comedy Central HD">
+    <title lang="es">Backdoor Youtube</title>
+  </programme>
+  <programme start="20200915123000 -0500" stop="20200915130000 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200915130000 -0500" stop="20200915132500 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200915132500 -0500" stop="20200915135500 -0500" channel="Comedy Central HD">
+    <title lang="es">Se rentan Cuartos</title>
+  </programme>
+  <programme start="20200915135500 -0500" stop="20200915142500 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200915142500 -0500" stop="20200915145000 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200915145000 -0500" stop="20200915155000 -0500" channel="Comedy Central HD">
+    <title lang="es">Palazuelos mi rey</title>
+  </programme>
+  <programme start="20200915155000 -0500" stop="20200915165000 -0500" channel="Comedy Central HD">
+    <title lang="es">Palazuelos mi rey</title>
+  </programme>
+  <programme start="20200915165000 -0500" stop="20200915175000 -0500" channel="Comedy Central HD">
+    <title lang="es">ADN Mexicano</title>
+  </programme>
+  <programme start="20200915175000 -0500" stop="20200915182000 -0500" channel="Comedy Central HD">
+    <title lang="es">Drunk History MX</title>
+  </programme>
+  <programme start="20200915182000 -0500" stop="20200915192000 -0500" channel="Comedy Central HD">
+    <title lang="es">La culpa es de la Malinche</title>
+  </programme>
+  <programme start="20200915192000 -0500" stop="20200915202000 -0500" channel="Comedy Central HD">
+    <title lang="es">Comedy Central Presenta</title>
+  </programme>
+  <programme start="20200915202000 -0500" stop="20200915205000 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200915205000 -0500" stop="20200915211500 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200915211500 -0500" stop="20200915214500 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200915214500 -0500" stop="20200915221000 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200915221000 -0500" stop="20200915230000 -0500" channel="Comedy Central HD">
+    <title lang="es">Mexico unido</title>
+  </programme>
+  <programme start="20200915230000 -0500" stop="20200916000000 -0500" channel="Comedy Central HD">
+    <title lang="es">Palazuelos mi rey</title>
+  </programme>
+  <programme start="20200916000000 -0500" stop="20200916010000 -0500" channel="Comedy Central HD">
+    <title lang="es">La culpa es de Cortes</title>
+  </programme>
+  <programme start="20200916010000 -0500" stop="20200916013000 -0500" channel="Comedy Central HD">
+    <title lang="es">Backdoor</title>
+  </programme>
+  <programme start="20200916020000 -0500" stop="20200916022500 -0500" channel="Comedy Central HD">
+    <title lang="es">Ren &amp; Stimpy</title>
+  </programme>
+  <programme start="20200916022500 -0500" stop="20200916025000 -0500" channel="Comedy Central HD">
+    <title lang="es">Ren &amp; Stimpy</title>
+  </programme>
+  <programme start="20200916025000 -0500" stop="20200916031500 -0500" channel="Comedy Central HD">
+    <title lang="es">Ren &amp; Stimpy</title>
+  </programme>
+  <programme start="20200916084000 -0500" stop="20200916091000 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200916091000 -0500" stop="20200916093500 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200916120000 -0500" stop="20200916130000 -0500" channel="Comedy Central HD">
+    <title lang="es">La culpa es de Cortes</title>
+  </programme>
+  <programme start="20200916130000 -0500" stop="20200916140000 -0500" channel="Comedy Central HD">
+    <title lang="es">Palazuelos mi rey</title>
+  </programme>
+  <programme start="20200916140000 -0500" stop="20200916143000 -0500" channel="Comedy Central HD">
+    <title lang="es">Drunk History MX</title>
+  </programme>
+  <programme start="20200916143000 -0500" stop="20200916150000 -0500" channel="Comedy Central HD">
+    <title lang="es">Backdoor Youtube</title>
+  </programme>
+  <programme start="20200916150000 -0500" stop="20200916153000 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200916153000 -0500" stop="20200916155500 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200916155500 -0500" stop="20200916162500 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200916162500 -0500" stop="20200916165000 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200916165000 -0500" stop="20200916172000 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200916172000 -0500" stop="20200916174500 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200916174500 -0500" stop="20200916184500 -0500" channel="Comedy Central HD">
+    <title lang="es">Palazuelos mi rey</title>
+  </programme>
+  <programme start="20200916184500 -0500" stop="20200916191500 -0500" channel="Comedy Central HD">
+    <title lang="es">Cc stand-up</title>
+  </programme>
+  <programme start="20200916191500 -0500" stop="20200916194000 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200916194000 -0500" stop="20200916201000 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200916201000 -0500" stop="20200916203500 -0500" channel="Comedy Central HD">
+    <title lang="es">La Familia P.Luche</title>
+  </programme>
+  <programme start="20200916203500 -0500" stop="20200916210500 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200916210500 -0500" stop="20200916213000 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200916213000 -0500" stop="20200916220000 -0500" channel="Comedy Central HD">
+    <title lang="es">Vecinos</title>
+  </programme>
+  <programme start="20200916220000 -0500" stop="20200916230000 -0500" channel="Comedy Central HD">
+    <title lang="es">La culpa es de la Malinche</title>
+  </programme>
+  <programme start="20200916230000 -0500" stop="20200917000000 -0500" channel="Comedy Central HD">
+    <title lang="es">Mas mexicano que el chile</title>
+  </programme>
+  <programme start="20200914012600 -0500" stop="20200914025200 -0500" channel="De Pelicula HD">
+    <title lang="es">Las engañadas</title>
+  </programme>
+  <programme start="20200914025200 -0500" stop="20200914043400 -0500" channel="De Pelicula HD">
+    <title lang="es">Yo el aventurero</title>
+  </programme>
+  <programme start="20200914043400 -0500" stop="20200914061200 -0500" channel="De Pelicula HD">
+    <title lang="es">Modisto de señoras</title>
+  </programme>
+  <programme start="20200914061200 -0500" stop="20200914083000 -0500" channel="De Pelicula HD">
+    <title lang="es">Gavilán o paloma</title>
+  </programme>
+  <programme start="20200914083000 -0500" stop="20200914101800 -0500" channel="De Pelicula HD">
+    <title lang="es">Dos hijos desobedientes</title>
+  </programme>
+  <programme start="20200914101800 -0500" stop="20200914120200 -0500" channel="De Pelicula HD">
+    <title lang="es">Una señora movida</title>
+  </programme>
+  <programme start="20200914120200 -0500" stop="20200914135600 -0500" channel="De Pelicula HD">
+    <title lang="es">El Tunco Maclovio</title>
+  </programme>
+  <programme start="20200914135600 -0500" stop="20200914152200 -0500" channel="De Pelicula HD">
+    <title lang="es">Contrabando y muerte</title>
+  </programme>
+  <programme start="20200914152200 -0500" stop="20200914172900 -0500" channel="De Pelicula HD">
+    <title lang="es">Las señoritas vivanco</title>
+  </programme>
+  <programme start="20200914172900 -0500" stop="20200914191500 -0500" channel="De Pelicula HD">
+    <title lang="es">El proceso de las señoritas Vi</title>
+  </programme>
+  <programme start="20200914191500 -0500" stop="20200914205700 -0500" channel="De Pelicula HD">
+    <title lang="es">Yo el aventurero</title>
+  </programme>
+  <programme start="20200914205700 -0500" stop="20200914223500 -0500" channel="De Pelicula HD">
+    <title lang="es">Presos sin culpa</title>
+  </programme>
+  <programme start="20200914223500 -0500" stop="20200915001300 -0500" channel="De Pelicula HD">
+    <title lang="es">Muralla de tinieblas</title>
+  </programme>
+  <programme start="20200915223500 -0500" stop="20200916001300 -0500" channel="De Pelicula HD">
+    <title lang="es">Muralla de tinieblas</title>
+  </programme>
+  <programme start="20200916001300 -0500" stop="20200916020300 -0500" channel="De Pelicula HD">
+    <title lang="es">Los reyes del palenque</title>
+  </programme>
+  <programme start="20200916020300 -0500" stop="20200916033400 -0500" channel="De Pelicula HD">
+    <title lang="es">El tesoro de Morgan</title>
+  </programme>
+  <programme start="20200916033400 -0500" stop="20200916051100 -0500" channel="De Pelicula HD">
+    <title lang="es">Vuelven</title>
+  </programme>
+  <programme start="20200916051100 -0500" stop="20200916064100 -0500" channel="De Pelicula HD">
+    <title lang="es">Café Colón</title>
+  </programme>
+  <programme start="20200916064100 -0500" stop="20200916083500 -0500" channel="De Pelicula HD">
+    <title lang="es">El juicio de los hijos</title>
+  </programme>
+  <programme start="20200916083500 -0500" stop="20200916101700 -0500" channel="De Pelicula HD">
+    <title lang="es">México de mi corazón</title>
+  </programme>
+  <programme start="20200916101700 -0500" stop="20200916120500 -0500" channel="De Pelicula HD">
+    <title lang="es">Un corazón para dos</title>
+  </programme>
+  <programme start="20200916120500 -0500" stop="20200916134600 -0500" channel="De Pelicula HD">
+    <title lang="es">El revoltoso</title>
+  </programme>
+  <programme start="20200916134600 -0500" stop="20200916151800 -0500" channel="De Pelicula HD">
+    <title lang="es">El rey de México</title>
+  </programme>
+  <programme start="20200916151800 -0500" stop="20200916170200 -0500" channel="De Pelicula HD">
+    <title lang="es">La yegua colorada</title>
+  </programme>
+  <programme start="20200916170200 -0500" stop="20200916184700 -0500" channel="De Pelicula HD">
+    <title lang="es">El gran calavera</title>
+  </programme>
+  <programme start="20200916184700 -0500" stop="20200916211500 -0500" channel="De Pelicula HD">
+    <title lang="es">El padrecito</title>
+  </programme>
+  <programme start="20200916211500 -0500" stop="20200916225900 -0500" channel="De Pelicula HD">
+    <title lang="es">Hasta el viento tiene miedo</title>
+  </programme>
+  <programme start="20200916225900 -0500" stop="20200917004000 -0500" channel="De Pelicula HD">
+    <title lang="es">Durazo, la verdadera historia</title>
+  </programme>
+  <programme start="20200917004000 -0500" stop="20200917022400 -0500" channel="De Pelicula HD">
+    <title lang="es">La yegua colorada</title>
+  </programme>
+  <programme start="20200917022400 -0500" stop="20200917041800 -0500" channel="De Pelicula HD">
+    <title lang="es">El juicio de los hijos</title>
+  </programme>
+  <programme start="20200917041800 -0500" stop="20200917055000 -0500" channel="De Pelicula HD">
+    <title lang="es">El rey de México</title>
+  </programme>
+  <programme start="20200917055000 -0500" stop="20200917072200 -0500" channel="De Pelicula HD">
+    <title lang="es">Viva México y sus corridos</title>
+  </programme>
+  <programme start="20200917072200 -0500" stop="20200917092700 -0500" channel="De Pelicula HD">
+    <title lang="es">Ahí esta el detalle</title>
+  </programme>
+  <programme start="20200917092700 -0500" stop="20200917111200 -0500" channel="De Pelicula HD">
+    <title lang="es">Salón México</title>
+  </programme>
+  <programme start="20200917111200 -0500" stop="20200917130900 -0500" channel="De Pelicula HD">
+    <title lang="es">Mi caballo el cantador</title>
+  </programme>
+  <programme start="20200917130900 -0500" stop="20200917153800 -0500" channel="De Pelicula HD">
+    <title lang="es">El padrecito</title>
+  </programme>
+  <programme start="20200917153800 -0500" stop="20200917174600 -0500" channel="De Pelicula HD">
+    <title lang="es">La vida no vale nada</title>
+  </programme>
+  <programme start="20200917174600 -0500" stop="20200917200600 -0500" channel="De Pelicula HD">
+    <title lang="es">Por Ellas Aunque Mal Paguen</title>
+  </programme>
+  <programme start="20200917200600 -0500" stop="20200917225000 -0500" channel="De Pelicula HD">
+    <title lang="es">El callejón de los milagros</title>
+  </programme>
+  <programme start="20200917225000 -0500" stop="20200918003100 -0500" channel="De Pelicula HD">
+    <title lang="es">Las Muñecas del King Kong</title>
+  </programme>
+  <programme start="20200914004700 -0500" stop="20200914023300 -0500" channel="Discovery Channel HD">
+    <title lang="es">Héroes más allá del deber</title>
+  </programme>
+  <programme start="20200914023300 -0500" stop="20200914041700 -0500" channel="Discovery Channel HD">
+    <title lang="es">Kilos mortales</title>
+  </programme>
+  <programme start="20200914041700 -0500" stop="20200914050800 -0500" channel="Discovery Channel HD">
+    <title lang="es">Sala de emergencias Historia</title>
+  </programme>
+  <programme start="20200914050800 -0500" stop="20200914060000 -0500" channel="Discovery Channel HD">
+    <title lang="es">Sala de emergencias Historia</title>
+  </programme>
+  <programme start="20200914060000 -0500" stop="20200914065200 -0500" channel="Discovery Channel HD">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+  <programme start="20200914065200 -0500" stop="20200914074400 -0500" channel="Discovery Channel HD">
+    <title lang="es">Monstruos de río aguas desco</title>
+  </programme>
+  <programme start="20200914074400 -0500" stop="20200914083600 -0500" channel="Discovery Channel HD">
+    <title lang="es">Los aliados de Hitler</title>
+  </programme>
+  <programme start="20200914083600 -0500" stop="20200914092800 -0500" channel="Discovery Channel HD">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20200914092800 -0500" stop="20200914102000 -0500" channel="Discovery Channel HD">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20200914102000 -0500" stop="20200914111200 -0500" channel="Discovery Channel HD">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20200914111200 -0500" stop="20200914120400 -0500" channel="Discovery Channel HD">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20200914120400 -0500" stop="20200914125600 -0500" channel="Discovery Channel HD">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+  <programme start="20200914125600 -0500" stop="20200914134800 -0500" channel="Discovery Channel HD">
+    <title lang="es">Sala de emergencias H.I</title>
+  </programme>
+  <programme start="20200914134800 -0500" stop="20200914144000 -0500" channel="Discovery Channel HD">
+    <title lang="es">Sala de emergencias H.I</title>
+  </programme>
+  <programme start="20200914144000 -0500" stop="20200914153200 -0500" channel="Discovery Channel HD">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20200914153200 -0500" stop="20200914162500 -0500" channel="Discovery Channel HD">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20200914162500 -0500" stop="20200914171800 -0500" channel="Discovery Channel HD">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20200914171800 -0500" stop="20200914181900 -0500" channel="Discovery Channel HD">
+    <title lang="es">Vida</title>
+  </programme>
+  <programme start="20200914181900 -0500" stop="20200914191300 -0500" channel="Discovery Channel HD">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20200914191300 -0500" stop="20200914200700 -0500" channel="Discovery Channel HD">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20200914200700 -0500" stop="20200914210000 -0500" channel="Discovery Channel HD">
+    <title lang="es">Mexicánicos Recargado</title>
+  </programme>
+  <programme start="20200914210000 -0500" stop="20200914215700 -0500" channel="Discovery Channel HD">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20200914215700 -0500" stop="20200914225400 -0500" channel="Discovery Channel HD">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20200914225400 -0500" stop="20200914235100 -0500" channel="Discovery Channel HD">
+    <title lang="es">Tras la pista del oro</title>
+  </programme>
+  <programme start="20200914235100 -0500" stop="20200915004800 -0500" channel="Discovery Channel HD">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+  <programme start="20200915235100 -0500" stop="20200916004800 -0500" channel="Discovery Channel HD">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+  <programme start="20200916004800 -0500" stop="20200916014100 -0500" channel="Discovery Channel HD">
+    <title lang="es">Vidas remotas</title>
+  </programme>
+  <programme start="20200916014100 -0500" stop="20200916023400 -0500" channel="Discovery Channel HD">
+    <title lang="es">Expedición a lo desconocido</title>
+  </programme>
+  <programme start="20200916023400 -0500" stop="20200916032700 -0500" channel="Discovery Channel HD">
+    <title lang="es">Monstruos de río</title>
+  </programme>
+  <programme start="20200916032700 -0500" stop="20200916041800 -0500" channel="Discovery Channel HD">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20200916041800 -0500" stop="20200916051000 -0500" channel="Discovery Channel HD">
+    <title lang="es">Tras la pista del oro</title>
+  </programme>
+  <programme start="20200916051000 -0500" stop="20200916060000 -0500" channel="Discovery Channel HD">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+  <programme start="20200916060000 -0500" stop="20200916065200 -0500" channel="Discovery Channel HD">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+  <programme start="20200916065200 -0500" stop="20200916074400 -0500" channel="Discovery Channel HD">
+    <title lang="es">Monstruos de río aguas desco</title>
+  </programme>
+  <programme start="20200916074400 -0500" stop="20200916083600 -0500" channel="Discovery Channel HD">
+    <title lang="es">Los aliados de Hitler</title>
+  </programme>
+  <programme start="20200916083600 -0500" stop="20200916092800 -0500" channel="Discovery Channel HD">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20200916092800 -0500" stop="20200916102000 -0500" channel="Discovery Channel HD">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20200916102000 -0500" stop="20200916111200 -0500" channel="Discovery Channel HD">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20200916111200 -0500" stop="20200916120400 -0500" channel="Discovery Channel HD">
+    <title lang="es">Alaska Hombres primitivos</title>
+  </programme>
+  <programme start="20200916120400 -0500" stop="20200916125600 -0500" channel="Discovery Channel HD">
+    <title lang="es">Hombres del Ártico</title>
+  </programme>
+  <programme start="20200916125600 -0500" stop="20200916134800 -0500" channel="Discovery Channel HD">
+    <title lang="es">Sala de emergencias H.I</title>
+  </programme>
+  <programme start="20200916134800 -0500" stop="20200916144000 -0500" channel="Discovery Channel HD">
+    <title lang="es">Sala de emergencias H.I</title>
+  </programme>
+  <programme start="20200916144000 -0500" stop="20200916153300 -0500" channel="Discovery Channel HD">
+    <title lang="es">Joyas sobre ruedas</title>
+  </programme>
+  <programme start="20200916153300 -0500" stop="20200916162600 -0500" channel="Discovery Channel HD">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20200916162600 -0500" stop="20200916171900 -0500" channel="Discovery Channel HD">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20200916171900 -0500" stop="20200916181900 -0500" channel="Discovery Channel HD">
+    <title lang="es">México salvaje</title>
+  </programme>
+  <programme start="20200916181900 -0500" stop="20200916191300 -0500" channel="Discovery Channel HD">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20200916191300 -0500" stop="20200916200700 -0500" channel="Discovery Channel HD">
+    <title lang="es">Supervivencia al desnudo</title>
+  </programme>
+  <programme start="20200916200700 -0500" stop="20200916210000 -0500" channel="Discovery Channel HD">
+    <title lang="es">Mexicánicos Recargado</title>
+  </programme>
+  <programme start="20200916210000 -0500" stop="20200916215500 -0500" channel="Discovery Channel HD">
+    <title lang="es">Mexicánicos</title>
+  </programme>
+  <programme start="20200916215500 -0500" stop="20200916225200 -0500" channel="Discovery Channel HD">
+    <title lang="es">Martín Xtremo</title>
+  </programme>
+  <programme start="20200916225200 -0500" stop="20200916235000 -0500" channel="Discovery Channel HD">
+    <title lang="es">Motor OAX</title>
+  </programme>
+  <programme start="20200916235000 -0500" stop="20200917004700 -0500" channel="Discovery Channel HD">
+    <title lang="es">Herencia mecánica</title>
+  </programme>
+  <programme start="20200917235000 -0500" stop="20200918004700 -0500" channel="Discovery Channel HD">
+    <title lang="es">Herencia mecánica</title>
   </programme>
 </tv>
